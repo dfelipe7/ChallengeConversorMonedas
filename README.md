@@ -1,6 +1,6 @@
 ﻿# ChallengeConversorMonedas
 
-# 💱 Conversor de Monedas - Java
+#  Conversor de Monedas - Java
 
 Este proyecto es un conversor de monedas simple pero poderoso, desarrollado como parte del programa **Oracle Next Education (ONE)** en colaboración con **Alura Latam**. Permite realizar conversiones entre diferentes monedas utilizando datos reales obtenidos desde una API de tipo de cambio.
 
